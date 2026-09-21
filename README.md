@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://file.garden/arBxGBpMkOmi9aEz/Screenshot_2026-08-21-17-07-43-304_com.miui.gallery-edit.jpg" width="150" style="border-radius: 16px;">
-</div>
 
 GomesHub
 
